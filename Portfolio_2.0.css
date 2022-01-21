@@ -353,3 +353,14 @@ input[type=text], input[type=password] {
        width: 100%;
 }
 }
+.reachme {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.link{
+  margin: 0vh 2vh 0vh 0vh;
+}
+.resy {
+  margin: 0vh 0vh 0vh 3vh;
+}
